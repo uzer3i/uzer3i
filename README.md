@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%">
+</p>
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=50&hcenter=true&vCenter=true&width=1000&lines=</>WeCode.MERN+Architecture;Building+Cool+Things</>)
 
 -------------------------------------------------------------------------------------------
