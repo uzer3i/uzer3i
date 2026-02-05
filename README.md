@@ -1,9 +1,11 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=50&center=true&vCenter=true&width=600&lines=WeCode;MERN+Architecture;Building+Cool+Things)
+
+-------------------------------------------------------------------------------------------
+
 <div align="center">
   <img src="https://c.tenor.com/Sb9UCZnDchMAAAAC/tenor.gif" width="100%">
 </div>
 
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=60&center=true&vCenter=true&width=600&lines=WeCode;MERN+Architecture;Building+Cool+Things)
 
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
