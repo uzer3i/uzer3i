@@ -13,7 +13,7 @@
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8eecf5&size=25&center=true&vCenter=true&width=600&lines=@Aryan;@Somya;@Sudesh)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8eecf5&size=25&vCenter=true&width=300&lines=@Aryan;@Somya;@Sudesh)
 
 
 
